@@ -1,14 +1,15 @@
-# 👋 Hello, I'm Samartha Gs
+# 👋 Hello, I'm **Samartha Gs**
 
-I’m a **student passionate about AI and Web Development**, building projects, exploring new technologies, and sharing knowledge.  
+I’m a **student passionate about AI & Web Development**.  
+I love building **web apps, AI tools**, and sharing knowledge with the community.  
 
 ---
 
 ## 🌟 About Me
 - 🔭 Currently learning **Next.js, FastAPI & AI frameworks**  
-- 🌱 Exploring **full-stack web development** and **machine learning**  
-- 💬 Ask me about **JavaScript, React, Node.js, and Python**  
-- ⚡ Fun fact: I love turning ideas into **working apps**  
+- 🌱 Exploring **full-stack development and machine learning**  
+- 💬 Ask me about **JavaScript, React, Node.js, Python, and AI**  
+- ⚡ Fun fact: I enjoy turning **ideas into working projects**
 
 ---
 
@@ -28,15 +29,6 @@ I’m a **student passionate about AI and Web Development**, building projects, 
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://yourprojectlink.com"><img src="https://img.shields.io/badge/Websam-Portfolio-blue?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
-  <a href="https://yourprojectlink.com"><img src="https://img.shields.io/badge/AI_Chatbot-FastAPI-green?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://yourprojectlink.com"><img src="https://img.shields.io/badge/Socket.io_Chat-NodeJS-red?style=for-the-badge&logo=javascript&logoColor=white" /></a>
-</p>
-
----
-
 ## 🛠 Skills
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -51,9 +43,9 @@ I’m a **student passionate about AI and Web Development**, building projects, 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthags&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthags&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthags&theme=dracula&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthags&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthags&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthags&theme=radical&layout=compact" />
 </p>
 
 ---
@@ -72,3 +64,12 @@ I’m a **student passionate about AI and Web Development**, building projects, 
   <a href="https://medium.com/@samarthags"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" /></a>
   <a href="https://x.com/epic___32"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
+
+---
+
+### 🔍 SEO / Google Richness Tips for GitHub Profile
+- Use **your real name** in headings and descriptions (`Samartha Gs`)  
+- Add keywords like **AI, Web Development, JavaScript, React, Node.js, Python** in your About section  
+- Keep all badges, projects, and stats visible for **Google indexing**  
+- Maintain an **active GitHub repo** and **commit frequently**  
+- Use **Medium/LinkedIn** links to reinforce your presence online
