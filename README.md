@@ -8,11 +8,11 @@
 ## 🌟 About Me
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" /> 🔭 Currently learning **Next.js, FastAPI & AI frameworks**<br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" /> 🌱 Exploring **full-stack web development and machine learning**<br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" /> 💬 Ask me about **JavaScript, React, Node.js, Python, AI, and Web3**<br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" /> ⚡ Fun fact: I enjoy **turning ideas into working apps and learning new technologies every day**<br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" width="20" /> 🎯 Career Goal: **Become a full-stack AI Developer and build impactful projects**<br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/brain/brain-original.svg" width="20" /> 💡 Interests: **AI, Cloud, Blockchain, Open Source, Problem Solving**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" /> 🌱 Exploring **full-stack web development & machine learning**<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" /> 💬 Ask me about **JavaScript, React, Node.js, Python, AI**<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" /> ⚡ Fun fact: I enjoy **turning ideas into working apps**<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" width="20" /> 🎯 Career Goal: **Become a full-stack AI Developer**<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/brain/brain-original.svg" width="20" /> 💡 Interests: **AI, Cloud, Blockchain, Open Source**
 </p>
 
 ---
@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthags&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthags&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthags&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthags&theme=tokyonight" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthags&theme=tokyonight&layout=compact" />
 </p>
 
