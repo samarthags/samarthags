@@ -4,15 +4,21 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/samarthags?label=Followers&style=flat-square&color=388bfd&labelColor=0d1117&logo=github&logoColor=white" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Collaborate-238636?style=flat-square&labelColor=0d1117&logo=handshake&logoColor=white" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthags)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthags121@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/epic___32)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/epic___32)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samarthags)
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/samarthags?label=Followers&style=flat-square&color=388bfd&labelColor=0d1117&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-238636?style=flat-square&labelColor=0d1117" />
+
+</div>
 
 ---
 
@@ -22,38 +28,36 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ```typescript
 const samartha = {
   name       : "Samartha GS",
   role       : "Full-Stack AI Developer",
   location   : "India",
+
   learning   : ["Next.js", "FastAPI", "LLMs", "AI Agents"],
+
   philosophy : "Ship fast, iterate faster",
+
   openTo     : ["Collaborations", "Open Source", "Internships"],
+
   goal       : "Build products that matter"
 };
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-**Currently working on** &mdash; AI-powered web apps  
-**Learning** &mdash; LLMs, Agent frameworks, DevOps  
-**Ask me about** &mdash; JS, React, Python, APIs  
-**Goal** &mdash; Full-Stack AI Developer  
-**Interests** &mdash; AI · Cloud · Blockchain · OSS  
-**Based in** &mdash; India  
-**Reach me** &mdash; samarthags121@gmail.com  
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthags)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthags121@gmail.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/epic___32)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/epic___32)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samarthags)
+```yaml
+Working On : AI-powered web apps
+Learning   : LLMs · Agent frameworks · DevOps
+Ask Me     : JS · React · Python · APIs
+Goal       : Full-Stack AI Developer
+Interests  : AI · Cloud · Blockchain · OSS
+Location   : India
+Contact    : samarthags121@gmail.com
+```
 
 </td>
 </tr>
@@ -143,16 +147,6 @@ const samartha = {
 
 ---
 
-## `$ github-profile-trophy`
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samarthags&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</div>
-
----
-
 ## `$ git graph --contributions`
 
 <br/>
@@ -175,25 +169,6 @@ const samartha = {
 ├── Open Source       ->  Giving back, one PR at a time
 └── Side Projects     ->  Tools I wish existed, so I build them
 ```
-
----
-
-## `$ cat learning-roadmap.md`
-
-<br/>
-
-<div align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
 
 ---
 
