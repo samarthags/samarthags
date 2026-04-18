@@ -2,24 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1117,70:1f6feb,100:388bfd&height=200&section=header&text=Samartha%20GS&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full-Stack%20Developer%20%20%C2%B7%20%20AI%20Engineer%20%20%C2%B7%20%20Open%20Source%20Builder&descSize=16&descAlignY=62&descAlign=50&animation=fadeIn" />
 
-</div>
-
 <br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=388BFD&center=true&vCenter=true&multiline=false&width=600&lines=%24+whoami+%E2%86%92+Full-Stack+AI+Developer;%24+stack+%E2%86%92+Next.js+%7C+FastAPI+%7C+Python+%7C+React;%24+status+%E2%86%92+Building+%26+Shipping+Every+Day+%F0%9F%9A%80;%24+mission+%E2%86%92+Ideas+%E2%86%92+Code+%E2%86%92+Products" />
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/samarthags?label=Followers&style=flat-square&color=388bfd&labelColor=0d1117&logo=github&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Collaborate-238636?style=flat-square&labelColor=0d1117&logo=handshake&logoColor=white" />
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/samarthags?label=Followers&style=flat-square&color=388bfd&labelColor=0d1117&logo=github&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-238636?style=flat-square&labelColor=0d1117&logo=handshake&logoColor=white" />
 </div>
 
 <br/>
@@ -36,38 +26,26 @@
 
 ```typescript
 const samartha = {
-  name: "Samartha GS",
-  role: "Full-Stack AI Developer",
-  location: "India 🇮🇳",
-
-  currentlyLearning: [
-    "Next.js", "FastAPI",
-    "LLMs", "AI Agents"
-  ],
-
-  techPhilosophy: "Ship fast, iterate faster",
-  funFact: "I turn caffeine into code ☕",
-
-  openTo: [
-    "Collaborations",
-    "Open Source",
-    "Internships"
-  ],
-
-  goal: "Build products that matter"
+  name       : "Samartha GS",
+  role       : "Full-Stack AI Developer",
+  location   : "India",
+  learning   : ["Next.js", "FastAPI", "LLMs", "AI Agents"],
+  philosophy : "Ship fast, iterate faster",
+  openTo     : ["Collaborations", "Open Source", "Internships"],
+  goal       : "Build products that matter"
 };
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**🔭 Currently working on** — AI-powered web apps  
-**🌱 Learning** — LLMs, Agent frameworks, DevOps  
-**💬 Ask me about** — JS, React, Python, APIs  
-**🎯 Goal** — Full-Stack AI Developer  
-**⚡ Interests** — AI · Cloud · Blockchain · OSS  
-**📍 Based in** — India  
-**📫 Reach me** — samarthags121@gmail.com  
+**Currently working on** &mdash; AI-powered web apps  
+**Learning** &mdash; LLMs, Agent frameworks, DevOps  
+**Ask me about** &mdash; JS, React, Python, APIs  
+**Goal** &mdash; Full-Stack AI Developer  
+**Interests** &mdash; AI · Cloud · Blockchain · OSS  
+**Based in** &mdash; India  
+**Reach me** &mdash; samarthags121@gmail.com  
 
 <br/>
 
@@ -127,19 +105,19 @@ const samartha = {
 
 <div align="center">
 
-| Platform | Badge |
-|----------|-------|
-| 🎵 Music | ![Spotify API](https://img.shields.io/badge/Spotify_for_Developers-1DB954?style=flat-square&logo=spotify&logoColor=white) |
-| 🔥 BaaS | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) &nbsp; ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| 🍃 Database | ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 📸 Media | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
-| ▲ Deploy | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| 🐙 Source | ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white) |
-| 🤖 AI | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) &nbsp; ![Google AI](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) |
-| 💳 Payments | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) |
-| 📱 Messaging | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) |
-| 📧 Email | ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=minutemailer&logoColor=white) |
-| 🌐 Cloud | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) &nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| Category | Platforms |
+|----------|-----------|
+| Music | ![Spotify API](https://img.shields.io/badge/Spotify_for_Developers-1DB954?style=flat-square&logo=spotify&logoColor=white) |
+| BaaS | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) &nbsp; ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| Database | ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| Media | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
+| Deploy | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| Source | ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white) |
+| AI | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) &nbsp; ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white) |
+| Payments | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) |
+| Messaging | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) |
+| Email | ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=minutemailer&logoColor=white) |
+| Cloud | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) &nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 
 </div>
 
@@ -190,12 +168,12 @@ const samartha = {
 <br/>
 
 ```bash
-├── 🧠  AI Web Apps       → Integrating LLMs & OpenAI API into real products
-├── 🎵  Spotify Projects  → Music-driven apps via Spotify for Developers
-├── 📸  Media Pipelines   → Upload / transform flows with Cloudinary
-├── ⚡  Fullstack APIs    → FastAPI backends + Next.js frontends
-├── 🔗  Open Source       → Giving back, one PR at a time
-└── 📦  Side Projects     → Tools I wish existed — so I build them
+├── AI Web Apps       ->  LLMs & OpenAI API integrated into real products
+├── Spotify Projects  ->  Music-driven apps via Spotify for Developers
+├── Media Pipelines   ->  Image / video transform workflows with Cloudinary
+├── Fullstack APIs    ->  FastAPI backends + Next.js frontends
+├── Open Source       ->  Giving back, one PR at a time
+└── Side Projects     ->  Tools I wish existed, so I build them
 ```
 
 ---
@@ -221,12 +199,10 @@ const samartha = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,30:1f6feb,70:0d1117,100:0d1117&height=120&section=footer" />
 
-<sub><b>⭐ If my work helped you, a star on my repos means the world — thank you!</b></sub>
+<sub><b>If my work helped you, a star on my repos means a lot — thank you.</b></sub>
 
 </div>
