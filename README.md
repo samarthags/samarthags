@@ -7,15 +7,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthags)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthags121@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/epic___32)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/epic___32)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ux.epic)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samarthags)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/samarthags?label=Followers&style=flat-square&color=388bfd&labelColor=0d1117&logo=github&logoColor=white" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-238636?style=flat-square&labelColor=0d1117" />
 
 </div>
