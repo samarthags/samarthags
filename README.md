@@ -1,41 +1,36 @@
 <div align="center">
 
-<a href="https://samarthags.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=42&duration=0&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Samartha+GS" alt="Samartha GS" />
-</a>
+# Samartha GS
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Engineer;Open+Source+Builder;Building+things+that+matter" alt="roles" />
-</p>
+**Full-Stack Developer · AI Engineer · Open Source Builder**
 
 <p>
   <a href="https://linkedin.com/in/samarthags"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://x.com/epic___32"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/epic___32"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   &nbsp;
   <a href="https://instagram.com/ux.epic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   &nbsp;
   <a href="https://medium.com/@samarthags"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   &nbsp;
-  <a href="https://samarthags.in"><img src="https://img.shields.io/badge/Portfolio-samarthags.in-1f6feb?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://samarthags.in"><img src="https://img.shields.io/badge/Portfolio-samarthags.in-1f6feb?style=flat-square" /></a>
   &nbsp;
   <a href="mailto:samarthags121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+views&color=1f6feb&style=flat-square" />
 
 </div>
 
 ---
 
-I build full-stack web applications with a strong focus on **AI integration**, **real-time systems**, and **clean user experiences**. Based in Sagara, Karnataka, India.
+## About Me
 
-Currently deep into LLM tooling, agent frameworks, and music-driven web experiences via the Spotify API.
+I'm a full-stack web developer based in Sagara, Karnataka, India. I focus on building real, functional web applications from the ground up — handling everything from UI design to backend APIs and database architecture.
 
-```
-Open to  →  Collaborations  ·  Internships  ·  Open Source
-Freelance →  website.samarthags.in
-```
+I care a lot about the web as a platform. Most of what I build lives in the browser, and I spend a lot of time thinking about how interfaces feel, how data flows, and how to make things fast and reliable. My interest in web development goes beyond just shipping features — I want to understand how things work at every layer of the stack.
+
+Outside of the core stack, I enjoy building real-time systems with Socket.io, integrating third-party APIs into full products, and experimenting with music-driven web experiences using the Spotify API. I also take UI seriously — clean, intentional design is something I consider a core part of development, not an afterthought.
+
+Currently open to collaborations, open source contributions, and internship opportunities. I also take on freelance web design and development projects at [website.samarthags.in](https://website.samarthags.in).
 
 ---
 
@@ -65,23 +60,23 @@ Freelance →  website.samarthags.in
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **APIs & Platforms**
 
 ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -97,36 +92,14 @@ Freelance →  website.samarthags.in
 
 <img src="https://streak-stats.demolab.com?user=samarthags&theme=dark&hide_border=true&border_radius=6&ring=388bfd&fire=388bfd&currStreakLabel=388bfd&sideLabels=c9d1d9&dates=8b949e&background=0d1117" height="160" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthags&theme=github-compact&hide_border=true&radius=6&area=true&area_color=1f6feb&color=8b949e&line=388bfd&point=388bfd" />
+
 </div>
 
 ---
 
-## Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthags&theme=github-compact&hide_border=true&radius=6&area=true&area_color=1f6feb&color=8b949e&line=388bfd&point=388bfd" />
-</div>
-
----
-
-## Currently Building
-
-- 🎵 **Statsify** — Spotify stats web app with OAuth/PKCE, listening history & top tracks
-- 🎶 **Blend** — Real-time song-sharing app with live presence via Supabase
-- 🤖 AI-integrated web apps using LLMs and Groq API
-- 🌐 Freelance web design → [website.samarthags.in](https://website.samarthags.in)
-
----
-
-## Certifications
-
-| Certification | Issuer |
-|--------------|--------|
-| Full Stack Development | Mimo |
-| JavaScript | Mimo |
-
----
-
-<div align="center">
-  <sub>If something I built helped you, a ⭐ on the repo means a lot — thank you.</sub>
+  <sub>If something I built helped you, a star on the repo means a lot.</sub>
 </div>
