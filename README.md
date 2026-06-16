@@ -1,6 +1,6 @@
 <div align="center"><h1>
 <strong>
-<big><big><big><big><big>Samartha GS</big></big></big></big></big>
+<big><big><big><big><big>Samartha Gs</big></big></big></big></big>
 </strong>
 </h1><p>Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p><p>
 <img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile%20Views&color=388bfd&style=flat-square&labelColor=0d1117" alt="Profile Views" />
