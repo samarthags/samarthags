@@ -1,15 +1,12 @@
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=400&height=90&duration=2000&lines=Samartha+Gs;" />
-</h1>
-</h1><p>   Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p><p>
-
+<div align="center"><h1>
+<strong>
+<big><big><big><big><big>Samartha Gs</big></big></big></big></big>
+</strong>
+</h1><p>Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p><p>
 <img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile%20Views&color=388bfd&style=flat-square&labelColor=0d1117" alt="Profile Views" />
 &nbsp;
 <a href="https://samarthags.in">
-<img
- src="https://img.shields.io/badge/Portfolio-388bfd?style=flat-square&labelColor=0d1117" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-388bfd?style=flat-square&labelColor=0d1117" alt="Portfolio" />
 </a>
 </p></div><br><br>
 
