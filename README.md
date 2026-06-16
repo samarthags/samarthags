@@ -1,22 +1,8 @@
 <div align="center">
 
-# Samartha GS
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=52&duration=0&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Samartha+GS" alt="Samartha GS" />
 
-**Full-Stack Developer · AI Engineer · Open Source Builder**
-
-<p>
-  <a href="https://linkedin.com/in/samarthags"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://x.com/epic___32"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://instagram.com/ux.epic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://medium.com/@samarthags"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://samarthags.in"><img src="https://img.shields.io/badge/Portfolio-samarthags.in-1f6feb?style=flat-square" /></a>
-  &nbsp;
-  <a href="mailto:samarthags121@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+Developer;Web+Application+Builder;Real-Time+Systems;UI+%26+Design+Enthusiast;Open+Source+Contributor" alt="roles" />
 
 </div>
 
@@ -24,13 +10,15 @@
 
 ## About Me
 
-I'm a full-stack web developer based in Sagara, Karnataka, India. I focus on building real, functional web applications from the ground up — handling everything from UI design to backend APIs and database architecture.
+I'm a full-stack web developer based in Sagara, Karnataka, India. I build real, complete web applications from scratch — UI, backend, APIs, databases, and deployment, all of it.
 
-I care a lot about the web as a platform. Most of what I build lives in the browser, and I spend a lot of time thinking about how interfaces feel, how data flows, and how to make things fast and reliable. My interest in web development goes beyond just shipping features — I want to understand how things work at every layer of the stack.
+The web platform is what I care most about. I spend a lot of time thinking about how interfaces feel, how data moves through a system, and how to make experiences that are both fast and well-designed. For me, web development is not just writing code — it's understanding every layer of how a product comes together and making deliberate decisions at each one.
 
-Outside of the core stack, I enjoy building real-time systems with Socket.io, integrating third-party APIs into full products, and experimenting with music-driven web experiences using the Spotify API. I also take UI seriously — clean, intentional design is something I consider a core part of development, not an afterthought.
+I work heavily with JavaScript across the full stack. On the frontend I build with React and Next.js, paying close attention to layout, interaction, and visual quality. On the backend I design REST APIs with Node.js and Express, handle real-time communication with Socket.io, and connect to databases like MongoDB, Firebase, and Supabase. I've shipped products with payment integration, cloud media pipelines, third-party OAuth flows, and live multiplayer systems.
 
-Currently open to collaborations, open source contributions, and internship opportunities. I also take on freelance web design and development projects at [website.samarthags.in](https://website.samarthags.in).
+Beyond the technical side, I take UI design seriously. Clean, intentional interfaces are something I treat as core to development — not a separate concern. I'm also drawn to music-driven web experiences and have built projects that connect directly to the Spotify API.
+
+Currently open to collaborations, open source contributions, and internships. I also take on freelance web design and development work.
 
 ---
 
@@ -77,6 +65,7 @@ Currently open to collaborations, open source contributions, and internship oppo
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
