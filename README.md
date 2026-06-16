@@ -4,11 +4,7 @@
   
 <p>Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p>  
   
-<p>  
-<img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />  
-&nbsp;  
-<a href="https://samarthags.in"><img src="https://img.shields.io/badge/Portfolio--388bfd?style=flat-square&labelColor=0d1117" /></a>  
-</p>  
+
   
 </div>  
   
