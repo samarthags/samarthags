@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=52&duration=0&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Samartha+GS" alt="Samartha GS" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=Samartha%20GS&fontSize=64&fontColor=ffffff&fontAlignY=65&fontAlign=50&fontFamily=Black+Ops+One&desc=Full-Stack%20Developer%20%C2%B7%20Web%20Apps%20%C2%B7%20Open%20Source&descSize=14&descAlignY=88&descAlign=50&descColor=8b949e&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=120&section=header&text=Samartha%20GS&fontSize=64&fontColor=000000&fontAlignY=65&fontAlign=50&fontFamily=Black+Ops+One&desc=Full-Stack%20Developer%20%C2%B7%20Web%20Apps%20%C2%B7%20Open%20Source&descSize=14&descAlignY=88&descAlign=50&descColor=555555&animation=fadeIn" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+Developer;Web+Application+Builder;Real-Time+Systems;UI+%26+Design+Enthusiast;Open+Source+Contributor" alt="roles" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=28&lines=Full-Stack+Developer+%7C+Sagara%2C+Karnataka%2C+India;Building+web+apps+from+scratch+%E2%80%94+UI+to+deployment;50%2B+real-world+projects+shipped;Open+to+collaborations+%C2%B7+internships+%C2%B7+freelance" alt="typing" />
 
 </div>
 
@@ -10,15 +15,17 @@
 
 ## About Me
 
-I'm a full-stack web developer based in Sagara, Karnataka, India. I build real, complete web applications from scratch — UI, backend, APIs, databases, and deployment, all of it.
+I'm Samartha GS, a student and full-stack web developer from Sagara, Karnataka, India. I'm passionate about creating and learning through real-world projects — not tutorials, not demos, but actual shipped products.
 
-The web platform is what I care most about. I spend a lot of time thinking about how interfaces feel, how data moves through a system, and how to make experiences that are both fast and well-designed. For me, web development is not just writing code — it's understanding every layer of how a product comes together and making deliberate decisions at each one.
+I build complete web applications from the ground up. That means the UI, the backend, the database, the API integrations, and the deployment — all of it, handled end to end. I work heavily with JavaScript across the entire stack and care deeply about how every layer fits together.
 
-I work heavily with JavaScript across the full stack. On the frontend I build with React and Next.js, paying close attention to layout, interaction, and visual quality. On the backend I design REST APIs with Node.js and Express, handle real-time communication with Socket.io, and connect to databases like MongoDB, Firebase, and Supabase. I've shipped products with payment integration, cloud media pipelines, third-party OAuth flows, and live multiplayer systems.
+On the frontend I build with Next.js and React, paying close attention to layout, interaction, and visual quality. On the backend I design REST APIs with Node.js and Express, handle real-time communication with Socket.io, and work with MongoDB, Firebase, and Supabase for data. I've shipped products with payment integration via Razorpay, cloud media pipelines with Cloudinary, Google OAuth, Telegram bot systems, and live multiplayer experiences.
 
-Beyond the technical side, I take UI design seriously. Clean, intentional interfaces are something I treat as core to development — not a separate concern. I'm also drawn to music-driven web experiences and have built projects that connect directly to the Spotify API.
+I take UI design seriously — clean, intentional interfaces are core to how I develop, not an afterthought. I'm also drawn to music-driven web experiences and have built and am building projects directly connected to the Spotify API.
 
-Currently open to collaborations, open source contributions, and internships. I also take on freelance web design and development work.
+I've completed 50+ full-stack projects including AI tools, automation systems, analytics dashboards, real-time apps, and scalable web platforms.
+
+Currently open to collaborations, open source contributions, internships, and freelance web design and development work.
 
 ---
 
@@ -52,20 +59,41 @@ Currently open to collaborations, open source contributions, and internships. I 
 **APIs & Platforms**
 
 ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Google Auth](https://img.shields.io/badge/Google_Auth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
 
-**Tools**
+**Deployment & Tools**
 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Featured Projects
+
+**Linkitin** — [linkitin.site](https://linkitin.site) · [github](https://github.com/samarthags/Linkitin)
+> Profile-sharing platform similar to Linktree. Users create and customize personal profile pages without login. Built with Next.js, MongoDB, Node.js, and Cloudinary.
+
+**Expo** — [t.me/expoaibot](https://t.me/expoaibot) · [github](https://github.com/samarthags/Expo)
+> AI-powered Telegram bot with webhook integration, capable of answering questions and generating intelligent responses using Groq API.
+
+**Tic Tac Toe Online** — [game.samarthags.in](https://game.samarthags.in) · [github](https://github.com/samarthags/Online-Multiplayer-Game)
+> Real-time multiplayer game using Socket.io and Node.js. Players join rooms and play live — no login required.
+
+**GitHub Wrapped** — [sammugithub.vercel.app](https://sammugithub.vercel.app) · [github](https://github.com/samarthags/Github-Wrapped)
+> GitHub analytics platform showing total lines of code, repositories, contributions, and developer insights via the GitHub API.
+
+*50+ more projects across AI tools, automation systems, dashboards, and real-time apps.*
 
 ---
 
@@ -86,6 +114,18 @@ Currently open to collaborations, open source contributions, and internships. I 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthags&theme=github-compact&hide_border=true&radius=6&area=true&area_color=1f6feb&color=8b949e&line=388bfd&point=388bfd" />
 
 </div>
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| Portfolio | [samarthags.in](https://samarthags.in) |
+| Email | [samarthags121@gmail.com](mailto:samarthags121@gmail.com) |
+| LinkedIn | [linkedin.com/in/samarthags](https://linkedin.com/in/samarthags) |
+| Telegram | [t.me/samarthags](https://t.me/samarthags) |
+| Freelance | [website.samarthags.in](https://website.samarthags.in) |
 
 ---
 
