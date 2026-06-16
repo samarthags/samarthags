@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=90&duration=2000&lines=Samartha+Gs;" />
 </h1>
-</h1><p>Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p><p>
+</h1><p>.      Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p><p>
 
 <img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile%20Views&color=388bfd&style=flat-square&labelColor=0d1117" alt="Profile Views" />
 &nbsp;
