@@ -1,14 +1,20 @@
 <div align="center">
 
-# **Samartha GS**
+<h1><strong><big><big>Samartha GS</big></big></strong></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=28&lines=Full-Stack+Developer+%7C+Sagara%2C+Karnataka%2C+India;Building+web+apps+from+scratch+%E2%80%94+UI+to+deployment;50%2B+real-world+projects+shipped;Open+to+collaborations+%C2%B7+internships+%C2%B7+freelance" alt="typing" />
+<p>Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p>
+
+<p>
+<img src="https://img.shields.io/github/followers/samarthags?label=Followers&style=flat-square&color=388bfd&labelColor=0d1117&logo=github&logoColor=white" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />
+</p>
 
 </div>
 
 <br/>
 
-## About Me
+### About Me
 
 I'm Samartha GS, a student and full-stack web developer from Sagara, Karnataka, India. I'm passionate about creating and learning through real-world projects — not tutorials, not demos, but actual shipped products.
 
@@ -24,7 +30,7 @@ Currently open to collaborations, open source contributions, internships, and fr
 
 <br/>
 
-## Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -74,9 +80,13 @@ Currently open to collaborations, open source contributions, internships, and fr
 
 <br/>
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samarthags&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&include_all_commits=true&count_private=true&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&bg_color=0d1117&show=commits,reviews,prs_merged&rank_icon=github" />
+
+<br/><br/>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthags&layout=compact&theme=github_dark&hide_border=true&border_radius=6&title_color=388bfd&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 
