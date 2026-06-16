@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><strong><big><big>Samartha GS</big></big></strong></h1>
+<h1><strong><big><big>Samartha Gs</big></big></strong></h1>
 
 <p>Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p>
 
