@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Samartha Gs**
+# **Samartha GS**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=28&lines=Full-Stack+Developer+%7C+Sagara%2C+Karnataka%2C+India;Building+web+apps+from+scratch+%E2%80%94+UI+to+deployment;50%2B+real-world+projects+shipped;Open+to+collaborations+%C2%B7+internships+%C2%B7+freelance" alt="typing" />
 
