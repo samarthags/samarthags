@@ -5,14 +5,12 @@
 <p>Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p>
 
 <p>
-<img src="https://img.shields.io/github/followers/samarthags?label=Followers&style=flat-square&color=388bfd&labelColor=0d1117&logo=github&logoColor=white" />
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=samarthags&label=Profile+Views&color=388bfd&style=flat-square&labelColor=0d1117" />
+&nbsp;
+<a href="https://samarthags.in"><img src="https://img.shields.io/badge/Visit_my_website-samarthags.in-388bfd?style=flat-square&labelColor=0d1117" /></a>
 </p>
 
 </div>
-
-<br/>
 
 ### About Me
 
@@ -27,8 +25,6 @@ I take UI design seriously — clean, intentional interfaces are core to how I d
 I've completed 50+ full-stack projects including AI tools, automation systems, analytics dashboards, real-time apps, and scalable web platforms.
 
 Currently open to collaborations, open source contributions, internships, and freelance web design and development work.
-
-<br/>
 
 ### Tech Stack
 
@@ -78,8 +74,6 @@ Currently open to collaborations, open source contributions, internships, and fr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<br/>
-
 ### GitHub Stats
 
 <div align="center">
@@ -95,8 +89,6 @@ Currently open to collaborations, open source contributions, internships, and fr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthags&theme=github-compact&hide_border=true&radius=6&area=true&area_color=1f6feb&color=8b949e&line=388bfd&point=388bfd" />
 
 </div>
-
-<br/>
 
 <div align="center">
   <sub>If something I built helped you, a star on the repo means a lot.</sub>
