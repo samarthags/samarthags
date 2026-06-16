@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=90&duration=2000&lines=Samartha+Gs;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=55&center=true&vCenter=true&width=500&height=90&duration=2000&lines=Samartha+Gs;" />
 </h1>
 </h1><p>   Full-Stack Developer &nbsp;·&nbsp; Sagara, Karnataka, India</p><p>
 
