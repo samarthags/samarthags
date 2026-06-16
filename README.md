@@ -6,7 +6,7 @@
 
 </div>
 
----
+<br/>
 
 ## About Me
 
@@ -22,7 +22,7 @@ I've completed 50+ full-stack projects including AI tools, automation systems, a
 
 Currently open to collaborations, open source contributions, internships, and freelance web design and development work.
 
----
+<br/>
 
 ## Tech Stack
 
@@ -72,37 +72,13 @@ Currently open to collaborations, open source contributions, internships, and fr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## Featured Projects
-
-**Linkitin** — [linkitin.site](https://linkitin.site) · [github](https://github.com/samarthags/Linkitin)
-> Profile-sharing platform similar to Linktree. Users create and customize personal profile pages without login. Built with Next.js, MongoDB, Node.js, and Cloudinary.
-
-**Expo** — [t.me/expoaibot](https://t.me/expoaibot) · [github](https://github.com/samarthags/Expo)
-> AI-powered Telegram bot with webhook integration, capable of answering questions and generating intelligent responses using Groq API.
-
-**Tic Tac Toe Online** — [game.samarthags.in](https://game.samarthags.in) · [github](https://github.com/samarthags/Online-Multiplayer-Game)
-> Real-time multiplayer game using Socket.io and Node.js. Players join rooms and play live — no login required.
-
-**GitHub Wrapped** — [sammugithub.vercel.app](https://sammugithub.vercel.app) · [github](https://github.com/samarthags/Github-Wrapped)
-> GitHub analytics platform showing total lines of code, repositories, contributions, and developer insights via the GitHub API.
-
-*50+ more projects across AI tools, automation systems, dashboards, and real-time apps.*
-
----
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=samarthags&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&include_all_commits=true&count_private=true&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&bg_color=0d1117" />
-&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthags&layout=compact&theme=github_dark&hide_border=true&border_radius=6&title_color=388bfd&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=samarthags&theme=dark&hide_border=true&border_radius=6&ring=388bfd&fire=388bfd&currStreakLabel=388bfd&sideLabels=c9d1d9&dates=8b949e&background=0d1117" height="160" />
 
 <br/><br/>
 
@@ -110,19 +86,7 @@ Currently open to collaborations, open source contributions, internships, and fr
 
 </div>
 
----
-
-## Connect
-
-| | |
-|---|---|
-| Portfolio | [samarthags.in](https://samarthags.in) |
-| Email | [samarthags121@gmail.com](mailto:samarthags121@gmail.com) |
-| LinkedIn | [linkedin.com/in/samarthags](https://linkedin.com/in/samarthags) |
-| Telegram | [t.me/samarthags](https://t.me/samarthags) |
-| Freelance | [website.samarthags.in](https://website.samarthags.in) |
-
----
+<br/>
 
 <div align="center">
   <sub>If something I built helped you, a star on the repo means a lot.</sub>
