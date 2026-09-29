@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Samartha GS 👋
+# Hi, I'm Samartha Gs
 
 ### Full-Stack Web Developer · Next.js · React · Node.js · Sagara, Karnataka, India
 
@@ -12,29 +12,29 @@
 [![GitHub followers](https://img.shields.io/github/followers/samarthags?style=for-the-badge&logo=github&color=0d1117&labelColor=388bfd)](https://github.com/samarthags)
 ![Profile Views](https://komarev.com/ghpvc/?username=samarthags&label=Profile%20Views&color=388bfd&style=for-the-badge&labelColor=0d1117)
 
-**🟢 Open to internships · freelance · collaborations · open source**
+**Open to internships · freelance · collaborations · open source**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Samartha GS**, a student and **full-stack web developer** from **Sagara, Karnataka, India**. I learn by shipping real projects: not tutorials, not demos, but actual products.
 
 I build complete web apps end to end: UI, backend, database, APIs, authentication, cloud services and deployment. JavaScript runs through my whole stack, and I care about how every layer fits together.
 
-- 🎨 **Frontend:** Next.js and React with a focus on performance, responsiveness and clean UX
-- ⚙️ **Backend:** scalable REST APIs with Node.js and Express, real-time systems, auth flows, cloud integrations
-- 🧩 **Integrations:** Spotify, Telegram bots, Razorpay payments, Cloudinary media, Google OAuth, Groq AI
-- 📊 **Also built:** analytics dashboards, automation platforms, real-time apps
-- 🏆 **50+ full-stack projects** completed
+- **Frontend:** Next.js and React with a focus on performance, responsiveness and clean UX
+- **Backend:** scalable REST APIs with Node.js and Express, real-time systems, auth flows, cloud integrations
+- **Integrations:** Spotify, Telegram bots, Razorpay payments, Cloudinary media, Google OAuth, Groq AI
+- **Also built:** analytics dashboards, automation platforms, real-time apps
+- **50+ full-stack projects** completed
 
 > UI design is part of my process, not an afterthought.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -70,18 +70,18 @@ I build complete web apps end to end: UI, backend, database, APIs, authenticatio
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🚀 Building scalable full-stack applications
-- 🤖 Creating AI-powered products
-- 🧠 Learning advanced backend architecture
-- ⚡ Exploring real-time systems
-- 🌍 Contributing to open source
-- 📦 Shipping useful products
+- Building scalable full-stack applications
+- Creating AI-powered products
+- Learning advanced backend architecture
+- Exploring real-time systems
+- Contributing to open source
+- Shipping useful products
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <!-- Replace repo names with your best projects. Pinned cards load reliably in the mobile app too. -->
 
@@ -93,7 +93,7 @@ I build complete web apps end to end: UI, backend, database, APIs, authenticatio
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- Layer 1: public stat cards (fast, but hosted on shared servers that sometimes go down) -->
 <div align="center">
@@ -112,7 +112,7 @@ I build complete web apps end to end: UI, backend, database, APIs, authenticatio
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to **internships, freelance projects, collaborations and open-source contributions**. If you need a full-stack web developer in India (Next.js, React, Node.js), reach out.
 
@@ -120,12 +120,12 @@ I'm open to **internships, freelance projects, collaborations and open-source co
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samarthags)
 
 <details>
-<summary>🔎 Keywords</summary>
+<summary>Keywords</summary>
 
 Samartha GS, Samartha G S, samarthags, full-stack developer, web developer, Next.js developer, React developer, Node.js developer, Express developer, MongoDB, Firebase, Supabase, Tailwind CSS, TypeScript, freelance web developer India, Karnataka developer, Sagara developer, Shimoga developer, Shivamogga, student developer, internship, open source.
 
 </details>
 
 <div align="center">
-<sub>If something I built helped you, a star on the repository means a lot. ⭐</sub>
+<sub>If something I built helped you, a star on the repository means a lot.</sub>
 </div>
